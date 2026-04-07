@@ -30,6 +30,6 @@ The system provides:
 - Mission summary
 - Decision (Approved / Rejected / Postponed)
 - Reason and recommendation
-
 ## Author
-Your Name
+- B Chaitanya Reddy (2023003419)  
+- V Sukesh (2023003410)
